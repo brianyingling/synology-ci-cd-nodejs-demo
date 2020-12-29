@@ -1,0 +1,9 @@
+{
+    "name": "synology-ci-cd-nodejs-demo",
+    "version": "1.0.0",
+    "description": "\"Hello World\" demo application using Express.",
+    "main": "server.js",
+    "dependencies": {
+        "express": "^4.17.1"
+    }
+}
